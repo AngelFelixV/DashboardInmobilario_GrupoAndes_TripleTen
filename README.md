@@ -102,4 +102,4 @@ Este proyecto está bajo licencia MIT — ver el archivo [LICENSE](LICENSE) para
 
 ---
 
-*Proyecto realizado en el marco del bootcamp de Data Science de [TripleTen](https://tripleten.com).*
+*Proyecto realizado en el marco del bootcamp de Data Analysis de [TripleTen](https://tripleten.com).*
